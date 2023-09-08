@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elsayed" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elsayed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-elsayed-59031924a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elsayed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100017420386667&mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elsayed" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_elssayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_elssayed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohamed elsayed | محمد السيد" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamed elsayed | محمد السيد" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed_elsayed55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_elsayed55" height="30" width="40" /></a>
